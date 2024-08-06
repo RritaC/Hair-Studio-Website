@@ -1,7 +1,7 @@
-# $tudio Project
 
 ![Logo](https://aa0fdbf07e3bcd9f2348-0554560afdd4c824bd8d3fdead8482c4.ssl.cf2.rackcdn.com/BusinessLogo/900x150/62388625_124155_$2019_07_30_03_18_54_1243.jpg)
 
+# $tudio Project
 ## Overview
 
 Welcome to the $tudio project! This project is dedicated to providing top-notch beauty and wellness services with a modern, user-friendly interface. Our platform includes features for booking appointments, exploring services, and viewing special offers.
