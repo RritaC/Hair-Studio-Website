@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://aa0fdbf07e3bcd9f2348-0554560afdd4c824bd8d3fdead8482c4.ssl.cf2.rackcdn.com/BusinessLogo/900x150/62388625_124155_$2019_07_30_03_18_54_1243.jpg" alt="Logo" width="500">
+</p>
 
-![Logo](https://aa0fdbf07e3bcd9f2348-0554560afdd4c824bd8d3fdead8482c4.ssl.cf2.rackcdn.com/BusinessLogo/900x150/62388625_124155_$2019_07_30_03_18_54_1243.jpg)
 
 # $tudio Project
 ## Overview
