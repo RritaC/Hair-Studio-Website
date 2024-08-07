@@ -24,6 +24,7 @@
             }
             .feature-icon {
                 color: #00aced;
+                transition: transform 0.3s ease, box-shadow 0.3s ease;
             }
             .feature-list li {
                 margin-bottom: 15px;
@@ -43,6 +44,10 @@
 
             .promo-card:hover {
                 transform: scale(1.05);
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            }
+            .feature-icon:hover {
+                transform: scale(1.8);
                 box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             }
         </style>
@@ -121,10 +126,17 @@
                 </div>
             </div>
             <div class="text-center mt-12">
-                <a href="/book" class="inline-block btn btn-custom text-white py-3 px-6 rounded-lg text-lg font-semibold">
-                    Book Appointment
-                </a>
+                @if (Auth::check())
+                    <a href="/book" class="inline-block btn btn-custom text-white py-3 px-6 rounded-lg text-lg font-semibold">
+                        Book Appointment
+                    </a>
+                @else
+                    <a href="/register" class="inline-block btn btn-custom text-white py-3 px-6 rounded-lg text-lg font-semibold">
+                        Book Appointment
+                    </a>
+                @endif
             </div>
+
         </div>
     </div>
 

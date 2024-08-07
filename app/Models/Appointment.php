@@ -7,11 +7,9 @@ use Illuminate\Database\Eloquent\Model;
 
 class Appointment extends Model
 {
-    use HasFactory;
+    // Define the table name if it doesn't follow Laravel's naming convention
+    protected $table = 'appointments';
 
-    public static function create(array $validated)
-    {
-
-    }
-
+    // Specify the attributes that are mass assignable
+    protected $fillable = ['appointment_date', 'appointment_time'];
 }

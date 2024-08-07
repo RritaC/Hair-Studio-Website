@@ -131,7 +131,7 @@
                     Experience our top-notch hair services and leave feeling fabulous. Book an appointment today and let our experts take care of your hair needs.
                 </p>
                 <div class="mt-8">
-                    <a href="/book" class="inline-block bg-blue-600 text-white py-3 px-6 rounded-lg text-lg font-semibold hover:bg-blue-700">
+                    <a href="/register" class="inline-block bg-blue-600 text-white py-3 px-6 rounded-lg text-lg font-semibold hover:bg-blue-700">
                         Book Now
                     </a>
                 </div>

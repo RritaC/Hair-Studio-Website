@@ -47,7 +47,7 @@
     <script>
         $(document).ready(function() {
             $('#appointment-date').datepicker({
-                dateFormat: 'yy-mm-dd',
+                dateFormat: 'dd-mm-yy',
                 minDate: 0, // disable past dates
                 onSelect: function(dateText) {
                     generateTimeSlots();

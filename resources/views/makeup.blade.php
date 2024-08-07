@@ -7,10 +7,6 @@
         <title>Makeup Portfolio</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
         <style>
-            body {
-                background-color: #f8f9fa;
-                font-family: Arial, sans-serif;
-            }
             .portfolio-header {
                 text-align: center;
                 padding: 50px 0;
@@ -64,25 +60,29 @@
         <h2>Only at $alon</h2>
         <div class="workbook">
             <div class="workbook-item">
-                <img src="https://i.weddingomania.com/2023/05/03-chic-shiny-makeup-with-highlighter-a-glossy-pink-lip-shiny-smokey-eyes-and-a-touch-of-blush.jpg" alt="Workbook Item">
+                <img src="https://i.weddingomania.com/2023/05/03-chic-shiny-makeup-with-highlighter-a-glossy-pink-lip-shiny-smokey-eyes-and-a-touch-of-blush.jpg" alt="Smokey Eyes">
                 <h4 class="text-black mt-2">Smokey Eyes</h4>
-                <p class="text-black">A stunning smokey eye look perfect for evenings.</p>
+                <p class="text-black">An elegant smokey eye look perfect for evening events.</p>
             </div>
+
             <div class="workbook-item">
-                <img src="https://edited.beautybay.com/wp-content/uploads/2021/07/makeup_by_dominika_szymik.jpg" alt="Workbook Item">
-                <h4 class="text-black mt-2">Wedding Face</h4>
-                <p class="text-black">A stunning smokey eye look perfect for evenings.</p>
+                <img src="https://edited.beautybay.com/wp-content/uploads/2021/07/makeup_by_dominika_szymik.jpg" alt="Wedding Face">
+                <h4 class="text-black mt-2">Bridal Elegance</h4>
+                <p class="text-black">A timeless bridal look that includes a flawless base.</p>
             </div>
+
             <div class="workbook-item">
-                <img src="https://www.chassepermanentmakeup.com/wp-content/uploads/2022/10/FD4CEA17-72D4-4BAE-99F0-E6220407A591-821x1024.jpeg" alt="Workbook Item">
-                <h4 class="text-black mt-2">Brows</h4>
-                <p class="text-black">A stunning smokey eye look perfect for evenings.</p>
+                <img src="https://www.chassepermanentmakeup.com/wp-content/uploads/2022/10/FD4CEA17-72D4-4BAE-99F0-E6220407A591-821x1024.jpeg" alt="Brows">
+                <h4 class="text-black mt-2">Defined Brows</h4>
+                <p class="text-black">Well-groomed and perfectly defined brows that frame your face .</p>
             </div>
+
             <div class="workbook-item">
-                <img src="https://dy6g3i6a1660s.cloudfront.net/72PVznc8uNFfevHr1_zD3QM0BE8/cl.jpg" alt="Workbook Item">
-                <h4 class="text-black mt-2">Crazy Look</h4>
-                <p class="text-black">A natural nude makeup for everyday wear.</p>
+                <img src="https://dy6g3i6a1660s.cloudfront.net/72PVznc8uNFfevHr1_zD3QM0BE8/cl.jpg" alt="Crazy Look">
+                <h4 class="text-black mt-2">Creative Look</h4>
+                <p class="text-black">A daring and imaginative makeup style featuring vibrant colors.</p>
             </div>
+
         </div>
     </div>
 

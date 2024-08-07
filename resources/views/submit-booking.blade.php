@@ -27,7 +27,7 @@
     <body>
     <div class="container confirmation-container ">
         <div class="thank-you-message">
-            Thank you, {{ $customerName }}, for booking with us on {{ $appointmentDate }} at {{ $appointmentTime }}.
+            Thank you, {{ $first_name }}, for booking with us on {{ $appointmentDate }} at {{ $appointmentTime }}.
         </div>
         <div class="additional-info">
             We look forward to serving you. In the meantime, check out some interesting stuff below!
